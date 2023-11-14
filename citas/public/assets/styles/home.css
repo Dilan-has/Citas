@@ -1,0 +1,76 @@
+/* Agregar a tu archivo de estilos CSS */
+
+body {
+    background-color: #E5E7E9; /* Color de fondo */
+    color: #343a40; /* Color del texto principal */
+    font-family: 'Arial', sans-serif; /* Tipo de fuente principal */
+}
+
+
+.formulario{
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+    padding: 1rem;
+    box-shadow: 0px 1px 5px 0px rgb(70, 70, 70);
+}
+
+.cf{
+    margin-bottom: 2rem;
+}
+
+.total{
+    background-color: #ffff;
+    margin-top: 0rem;
+}
+
+.container {
+     /* Limitar el ancho del contenido para una lectura más cómoda */
+}
+
+
+.jumbotron {
+     /* Color del fondo del encabezado */
+    color: #000; /* Color del texto del encabezado */
+}
+
+.servicios{
+     /* Color del fondo del encabezado */
+    color: #000; /* Color del texto del encabezado */
+}
+
+/* Estilo para los enlaces */
+a {
+    color: #007bff; /* Color del enlace */
+    text-decoration: none; /* Eliminar el subrayado predeterminado */
+}
+
+a:hover {
+    text-decoration: underline; /* Agregar subrayado al pasar el mouse sobre el enlace */
+}
+
+/* Estilo para las ventajas */
+h3 {
+    color: #007bff; /* Color del título de ventajas */
+}
+
+h4 {
+    color: #28a745; /* Color del título de subventajas */
+}
+
+/* Estilo para las tarjetas de ventajas */
+.row .col-md-3 {
+    margin-bottom: 20px; /* Espaciado inferior entre las tarjetas */
+    padding: 15px; /* Relleno dentro de las tarjetas */
+    border: 1px solid #dee2e6; /* Borde de las tarjetas */
+    border-radius: 5px; /* Esquinas redondeadas de las tarjetas */
+}
+
+/* Estilo para el pie de página */
+footer {
+    margin-top: 50px; /* Espaciado superior del pie de página */
+    padding: 10px 0; /* Relleno interno del pie de página */
+    text-align: center; /* Centrar el texto del pie de página */
+    background-color: #f8f9fa; /* Color de fondo del pie de página */
+    border-top: 1px solid #dee2e6; /* Borde superior del pie de página */
+}
+

@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #005dca;
+    font-size: 1.5rem;
+}
+
+.d-flex{
+    margin-right: 35px;
+}
+
+.navbar img{
+    width: 12rem;
+    height: min-content;
+}
+
+.nav-link{
+    color: #FFF;
+}
